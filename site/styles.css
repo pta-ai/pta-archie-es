@@ -42,3 +42,22 @@ body[data-variant="tactical"] .hero-tagline { opacity: 0.85; }
 
 body[data-variant="zine"] header { background: linear-gradient(135deg, var(--primary), #ec4899); }
 body[data-variant="zine"] .hero-title { font-size: 54px; letter-spacing: -0.04em; }
+
+/* Explicit template accents so selected template is visually obvious. */
+body[data-template="riverbend_core"] {
+  background: linear-gradient(180deg, #f0f9ff 0%, #ffffff 35%);
+}
+body[data-template="riverbend_core"] header {
+  background: linear-gradient(135deg, #1d4ed8, #0ea5e9 52%, #14b8a6);
+}
+body[data-template="riverbend_core"] .hero-title {
+  letter-spacing: -0.02em;
+}
+body[data-template="riverbend_core"] section {
+  border-bottom-color: #bae6fd;
+}
+
+body[data-template="saffron_reef"] header { background: linear-gradient(135deg, #d97706, #f59e0b); }
+body[data-template="nova_horizon"] header { background: linear-gradient(135deg, #7c3aed, #3b82f6); }
+body[data-template="dusty_ridge"] header { background: linear-gradient(135deg, #7c2d12, #ea580c); }
+body[data-template="ember_zenith"] header { background: linear-gradient(135deg, #7f1d1d, #ef4444); }

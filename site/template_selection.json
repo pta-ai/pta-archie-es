@@ -1,0 +1,7 @@
+{
+  "templateId": "riverbend_core",
+  "templateName": "riverbend_core",
+  "templateSlug": "riverbend-core",
+  "source": "intake_payload",
+  "entryPath": "riverbend-core.html"
+}
