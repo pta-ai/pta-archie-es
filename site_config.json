@@ -1,0 +1,46 @@
+{
+  "brand": {
+    "fontBody": "IBM Plex Sans",
+    "fontHeading": "Fraunces",
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#0f172a"
+  },
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Home",
+      "blocks": [
+        {
+          "id": "hero",
+          "body": "We are a community of caregivers and educators supporting Archie ES.",
+          "type": "hero",
+          "ctaHref": "mailto:hgarg1@umd.edu",
+          "ctaText": "Get Involved",
+          "heading": "Welcome to Archie ES PTA"
+        },
+        {
+          "id": "mission",
+          "body": "We fund classroom needs, host family events, and amplify parent voices.",
+          "type": "section",
+          "heading": "Our mission"
+        },
+        {
+          "id": "volunteer",
+          "body": "Join a committee or help at upcoming events.",
+          "type": "cta",
+          "ctaHref": "mailto:hgarg1@umd.edu",
+          "ctaText": "Volunteer",
+          "heading": "Volunteer with us"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "email": "hgarg1@umd.edu"
+  },
+  "tagline": "Supporting Archie ES families",
+  "siteName": "Archie ES PTA",
+  "tenantId": "537fc034-7d06-40a8-b85b-410f3a47b500",
+  "templateId": "riverbend_core",
+  "schemaVersion": 1
+}
